@@ -1,0 +1,20 @@
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\bin\Debug\Indivisual Project.exe.config
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\bin\Debug\Indivisual Project.exe
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\bin\Debug\Indivisual Project.pdb
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\obj\Debug\Indivisual_Project.Form1.resources
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\obj\Debug\Indivisual_Project.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.exe
+S:\Projects\project Musgrave CPII\GVV6151\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.pdb
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\bin\Debug\Indivisual Project.exe.config
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\bin\Debug\Indivisual Project.exe
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\bin\Debug\Indivisual Project.pdb
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.csprojAssemblyReference.cache
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\obj\Debug\Indivisual_Project.Form1.resources
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\obj\Debug\Indivisual_Project.Properties.Resources.resources
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.csproj.GenerateResource.cache
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.csproj.CoreCompileInputs.cache
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.exe
+C:\Users\nagav\Desktop\Indivisual Project\Indivisual Project\Indivisual Project\obj\Debug\Indivisual Project.pdb
